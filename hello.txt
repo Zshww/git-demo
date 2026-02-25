@@ -19,6 +19,7 @@ hello git
 hello git
 hello git
 hello git
+<<<<<<< HEAD
 hello git world
-hello git
+hello git hello hello
 
