@@ -10,5 +10,7 @@ public class gitt {
         System.out.println("hello zsg");
           System.out.println("hello zsh");
           System.out.println("hello zsh2");
+              System.out.println("hello git");
+        System.out.println("hello git2");
     }
 }
